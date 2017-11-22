@@ -6,8 +6,9 @@
 
 **Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
 
-**Link to training/work:** 
+**Training**: 
 1. [SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
+**Work**:
 2. [Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
 
 ### Day 2: November 18, 2017
@@ -24,7 +25,7 @@
 
 **Thoughts:** Feeling pretty good about completing the JavaScript but I still have a lot to learn and topics to review as a refresher.
 
-**Link to training:** [MVA SQL Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157)
+**Training** [MVA SQL Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157)
 
 ### Day 4: November 20, 2017
 
@@ -32,7 +33,7 @@
 
 **Thoughts:** Started my new job as a SharePoint Developer today.  My PM asked about REST APIs and I'm so glad I was able to answer his question based on studying the day before. 
 
-**Link to training:** [LeanKit Tutorial](https://support.leankit.com/hc/en-us/articles/204413443-Lesson-1-How-LeanKit-Works-The-Concept)
+**Training:** [LeanKit Tutorial](https://support.leankit.com/hc/en-us/articles/204413443-Lesson-1-How-LeanKit-Works-The-Concept)
 
 ### Day 5: November 21, 2017
 
@@ -40,15 +41,13 @@
 
 **Thoughts** The algorithm scripting excercises were challenging but rewarding after I completed a few -- very time consuming.  Researched InfoPath Form Services and quickly learned that Microsoft is no longer continuing development but will support the program until 2023.  The Microsoft Ignite conference in September, recommended using PowerApps as a replacement.
 
-**Link(s) to work**
-1. [Reverse A String]
-(https://www.freecodecamp.org/challenges/reverse-a-string)
+**Work:**
+1. [Reverse A String](https://www.freecodecamp.org/challenges/reverse-a-string)
 2. [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 
-**Link(s) to training:** 
+**Training:** 
 1. [Microsoft InfoPath](https://support.office.com/en-us/article/Find-content-about-InfoPath-2010-and-2013-A7BDD91D-02B4-4596-A22A-2BAD4DE69835#__toc349315878)
-2. [Microsoft Ignite PowerApps]
-(https://www.youtube.com/watch?v=sGFo6XslZ2I)
+2. [Microsoft Ignite PowerApps](https://www.youtube.com/watch?v=sGFo6XslZ2I)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
