@@ -6,10 +6,8 @@
 
 **Thoughts:** I'm excited to continue learning and applying my skills from React to SharePoint.  This will require more study on React and ES6. 
 
-**Training**: 
-1. [SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
-**Work**:
-2. [Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
+**Training**:[SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
+**Work**: [Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
 
 ### Day 2: November 18, 2017
 
