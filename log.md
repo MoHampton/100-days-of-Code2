@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log (Round 2)
 
+---
+
 ### Day 1: November 16, 2017
 
 **Today's Progress**: Great start with the first module to the SharePoint Fundamentals.  Developed my first "Hello World" SharePoint Webpart with React.  I also revisited Free Code Camp and studied JavaScript under the Front End Development Certificate.
@@ -9,6 +11,8 @@
 **Training**:[SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
 **Work**: [Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
 
+---
+
 ### Day 2: November 18, 2017
 
 **Today's Progress**: Completed more FreeCodeCamp JavaScript module...alomost done! Read more on SharePoint REST APIs and played in code with CRUD.
@@ -16,6 +20,8 @@
 **Thoughts:** This is quite a long module, estimated to take 10 hours to complete.  The SharePoint CRUD process will more than likely be used frequently in my new job.
 
 **Link to training:** [Rest API Reference](https://msdn.microsoft.com/en-us/library/office/jj860569.aspx)
+
+---
 
 ### Day 3: November 19, 2017
 
@@ -25,6 +31,8 @@
 
 **Training** [MVA SQL Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157)
 
+---
+
 ### Day 4: November 20, 2017
 
 **Today's Progress**: Reviewed LeanKit Kanban tutorial and brushed up on SCRUM. Reviewed more of the SharePoint Framework and broke my "Hello World" web part for fun. 
@@ -32,6 +40,8 @@
 **Thoughts:** Started my new job as a SharePoint Developer today.  My PM asked about REST APIs and I'm so glad I was able to answer his question based on studying the day before. 
 
 **Training:** [LeanKit Tutorial](https://support.leankit.com/hc/en-us/articles/204413443-Lesson-1-How-LeanKit-Works-The-Concept)
+
+---
 
 ### Day 5: November 21, 2017
 
@@ -47,6 +57,19 @@
 1. [Microsoft InfoPath](https://support.office.com/en-us/article/Find-content-about-InfoPath-2010-and-2013-A7BDD91D-02B4-4596-A22A-2BAD4DE69835#__toc349315878)
 2. [Microsoft Ignite PowerApps](https://www.youtube.com/watch?v=sGFo6XslZ2I)
 
+---
+### Day 6: November 22, 2017
+
+**Today's Progress**: Learned more about using markdown to develop a more robust learning tracker.  Used my fellow code newbie as a reference: [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker). Reviewed more on the JavaScript client object model in SharePoint.
+
+**Thoughts** I'm enjoying building/updating my learning accountability tool.  I was very limited on time to study SharePoint but should have a full day available on Friday to tackle this monster.
+
+**Work:** [Mo's Learning Tracker (A.K.A. The site your currently reading...)](https://github.com/MoHampton/100-days-of-Code2)
+
+**Training:** [Microsoft Basic JavaScript Operations in Sharepoint](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint)
+
+
+---
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
