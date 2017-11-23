@@ -68,6 +68,13 @@
 
 **Training:** [Microsoft Basic JavaScript Operations in Sharepoint](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint)
 
+---
+
+## Contents
+* [Home] (README.md)
+* [My Daily Log](log.md)
+* [Rules](rules.md)
+* [Resources](resources.md)
 
 ---
 <!--### Day 0: February 30, 2016 (Example 2)
