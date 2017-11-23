@@ -71,7 +71,6 @@
 ---
 
 ## Contents
-* [Home] (README.md)
 * [My Daily Log](log.md)
 * [Rules](rules.md)
 * [Resources](resources.md)

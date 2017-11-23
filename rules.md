@@ -16,7 +16,6 @@ November 16th, 2017
 ------
 
 ## Contents
-* [Home] (README.md)
 * [Rules](rules.md)
 * [My Daily Log](log.md)
 * [Resources](resources.md)
