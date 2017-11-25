@@ -70,6 +70,16 @@
 
 ---
 
+### Day 7: November 24, 2017
+
+**Today's Progress**: Brushed up on CSS with Flexbox Froggy and watched more SharePoint Framework videos.
+
+**Thoughts** Took the holiday off yesterday for Thanksgiving.  I'm still uncomfortably full while I study - but this is part of my commitment to coding. :) I will hopefully have a few hours tomorrow to deep dive more into SharePoint Framework.
+
+**Work:** [Flexbox Froggy](http://flexboxfroggy.com/)
+
+**Training:** [SharePoint Framework Training Module1 Section3](https://www.youtube.com/watch?v=NAo6v77tRzI&feature=youtu.be)
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
