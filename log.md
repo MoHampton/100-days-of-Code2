@@ -80,6 +80,8 @@
 
 **Training:** [SharePoint Framework Training Module1 Section3](https://www.youtube.com/watch?v=NAo6v77tRzI&feature=youtu.be)
 
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)

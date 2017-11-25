@@ -33,7 +33,8 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
-4. ["Practival JavaScript" by Gordon Zhu] (https://watchandcode.com/p/practical-javascript)
+4. ["Practival JavaScript" by Gordon Zhu](https://watchandcode.com/p/practical-javascript)
+
 
 ## Contents
 * [Rules](rules.md)
