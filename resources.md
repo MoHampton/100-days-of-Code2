@@ -35,6 +35,8 @@
 3. "Mastering JavaScript" by Ved Antani
 4. ["Practival JavaScript" by Gordon Zhu](https://watchandcode.com/p/practical-javascript)
 
+<!--### SharePoint
+1. -->
 
 ## Contents
 * [Rules](rules.md)

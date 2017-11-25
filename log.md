@@ -82,6 +82,16 @@
 
 ---
 
+### Day 8: November 25, 2017
+
+**Today's Progress**: More CSS fun with Grid Garden and started the Watch and Code JavaScript Course as a refresher.
+
+**Thoughts** Decided to go back to the basics since I'm far too comfortable with CSS and JavaScript frameworks, such as Bootstrap, JQuery and React.  Going back to vanilla JS for now.
+
+**Work:** [Grid Garden](http://cssgridgarden.com/)
+
+**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
