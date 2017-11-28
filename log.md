@@ -92,6 +92,31 @@
 
 **Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
 
+---
+
+### Day 9: November 26, 2017
+
+**Today's Progress**: Completed functions through Watch and Code, updated my portfolio website and reviewed reusable code for SharePoint webparts. 
+
+**Thoughts** Slowly making my way through the Wand and Code tutorial.  It's pretty basic right now but good to see JS from another perspective. 
+
+**Work:** [My Portfolio Website](https://mohampton.github.io/)
+
+**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+
+---
+
+### Day 10: November 27, 2017
+
+**Today's Progress**: FreeCodeCamp basic algorithm scripting and more Watch and Code.
+
+**Thoughts** My attempt at the "Check for Palindromes" on FCC is pretty lack luster. I'm currently reviewing documention on String.prototype.replace() and String.prototype.toLowerCase()
+
+**Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+
+---
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
