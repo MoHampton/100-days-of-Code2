@@ -42,7 +42,9 @@ This repo was built to track my daily learning and as an accountability tool for
 |Course|Host|
 |:---:|:---:|
 |[Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)|[Udacity](https://udacity.com)|
+
 |[GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|[Udacity](https://udacity.com)|
+
 |[React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019)|[Udacity](https://udacity.com)|
 
 ------
