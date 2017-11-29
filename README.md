@@ -18,7 +18,7 @@ This repo was built to track my daily learning and as an accountability tool for
 
 ### In-Progress
 
-|Course|Tutor|
+|Course|Host|
 |:---:|:---:|
 |[Front End Development](https://www.freecodecamp.org/mohampton)|[Free Code Camp](https://www.freecodecamp.org)|
 |[Watch and Code Practical JavaScript](https://watchandcode.com/p/practical-javascript)|[Gordon Zhu](https://twitter.com/gordon_zhu)|
@@ -39,7 +39,7 @@ This repo was built to track my daily learning and as an accountability tool for
 
 
 ##Future Courses
-|Course|Tutor|
+|Course|Host|
 |:---:|:---:|
 |[Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)|[Udacity](https://udacity.com)|
 |[GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|[Udacity](https://udacity.com)|
