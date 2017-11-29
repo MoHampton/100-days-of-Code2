@@ -38,6 +38,9 @@
 <!--### SharePoint
 1. -->
 
+###Freelancing 
+1. [SkillCrush Freelance Business Building Blueprint] (https://skillcrush.com/freelance-business-blueprint)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
