@@ -117,6 +117,18 @@
 **Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
 
 ---
+
+### Day 11: November 28, 2017
+
+**Today's Progress**: FreeCodeCamp basic algorithm scripting and more Watch and Code.
+
+**Thoughts** And BOOM! I figured out about 90% of soluation prior to checking Stack Overflow.  I got tricked up a bit on how to remove the characters. And...only one video on WatchAndCode.  I spent majority of my time reviewing the Skillcrush website and ultimately purchased the freelance blueprint.  I've been approached recently to build and website and a Learning Management System (LMS).  I'm hoping to build a decent LMS on Wordpress to allow the customer to make future minor changes to the website without a developer.  I'm excited to see how this may unfold. 
+
+**Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+
+---
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
