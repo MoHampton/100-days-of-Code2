@@ -132,13 +132,13 @@
 
 ### Day 12: November 29, 2017
 
-**Today's Progress**: FreeCodeCamp basic algorithm scripting and JavaScript "flip card" code.
+**Today's Progress**: FreeCodeCamp basic algorithm scripting and "flip card" code.
 
-**Thoughts** Completed the "Find the Longest Word in a String" challenge.  Additionally, I took time out today to research Github for a JavaScript flip card snippet.  This might work in a SharePoint React app that I've been thinking about
+**Thoughts** Completed the "Find the Longest Word in a String" challenge.  Additionally, I took time out today to research Github for a CSS/JavaScript flip card snippet.  This might work in a SharePoint React app that I've been thinking about
 
 **Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
 
-**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+**Training:** [Flip Card Code](https://davidwalsh.name/css-flip)
 
 ---
 
