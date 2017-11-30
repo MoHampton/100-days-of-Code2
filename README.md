@@ -39,6 +39,7 @@ This repo was built to track my daily learning and as an accountability tool for
 
 
 ##Future Courses
+
 |Course|Host|
 |:---:|:---:|
 |[Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)|[Udacity](https://udacity.com)|
