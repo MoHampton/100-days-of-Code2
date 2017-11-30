@@ -38,7 +38,7 @@ This repo was built to track my daily learning and as an accountability tool for
 |2017|[The Web Developer Bootcamp - Frond End](https://www.udemy.com/the-web-developer-bootcamp)| Colt Steele - [Udemy](https://www.udemy.com)|-->
 
 
-###Future Courses
+### Future Courses
 
 |Course|Host|
 |:---:|:---:|
