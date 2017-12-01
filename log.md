@@ -134,11 +134,21 @@
 
 **Today's Progress**: FreeCodeCamp basic algorithm scripting and "flip card" code.
 
-**Thoughts** Completed the "Find the Longest Word in a String" challenge.  Additionally, I took time out today to research Github for a CSS/JavaScript flip card snippet.  This might work in a SharePoint React app that I've been thinking about
+**Thoughts** Completed the "Find the Longest Word in a String" challenge.  Additionally, I took time out today to research Github for a CSS/JavaScript flip card snippet.  This might work in a SharePoint React app that I've been thinking about.
 
 **Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
 
-**Training:** [Flip Card Code](https://davidwalsh.name/css-flip)
+**Code Sample:** [Flip Card Code by David Walsh](https://davidwalsh.name/css-flip)
+
+---
+
+### Day 13: November 30, 2017
+
+**Today's Progress**: FreeCodeCamp basic algorithm scripting and "Print Area" JS hacking.
+
+**Thoughts** Completed the "Title Case a Sentence" algorithm.  I forgot all about the .slice feature.  I explored and played around with slicing at different spots. Found out about a SharePoint developer that was able to dynamically print a list with the proper print area settings.  Spent quite some time translating/debugging the code.  Made some progress but I will take a deeper look tomorrow. 
+
+**Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/title-case-a-sentence)
 
 ---
 
