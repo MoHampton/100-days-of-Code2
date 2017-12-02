@@ -162,6 +162,16 @@
 
 ---
 
+### Day 15: December 2, 2017
+
+**Today's Progress**: Watch And Code Objects
+
+**Thoughts** Completed the Watch And Code Objects tutorial 
+
+**Training:** [Practical JavaScript Watch and Code](https://t.co/4aIKI9x2F5)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
