@@ -1,8 +1,8 @@
 # Resources
+---
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
----
 
 <!--### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
@@ -20,15 +20,11 @@
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)-->
 
-## Other resources
+[CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
 ---
 
-1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
-
 ## Books
-
---- 
 
 ### General Topics 
 1. ["The War of Art" by Steven Pressfield](http://www.goodreads.com/book/show/1319.The_War_of_Art)
@@ -47,7 +43,9 @@
 
 ---
 
-### Freelancing 
+## Freelancing 
+
+###Building A Business
 1. [SkillCrush Freelance Business Building Blueprint] (https://skillcrush.com/freelance-business-blueprint)
 
 ## Contents
