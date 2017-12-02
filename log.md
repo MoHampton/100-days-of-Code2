@@ -152,6 +152,16 @@
 
 ---
 
+### Day 14: December 1, 2017
+
+**Today's Progress**: SharePoint Framework Intro Module 1 Section 4
+
+**Thoughts** Short day on coding today.  Attempted to set up the SPFX environment on a new computer to code a new web part but had to settle on completing a module due to time contraints. 
+
+**Work:** [SharePoint Framework Youtube Video](https://www.youtube.com/watch?v=YqMh78I_NiA)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
