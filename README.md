@@ -12,6 +12,7 @@ This repo was built to track my daily learning and as an accountability tool for
 * [My Daily Log](log.md)
 * [Rules](rules.md)
 * [Resources](resources.md)
+
 ------
 
 ## Courses
