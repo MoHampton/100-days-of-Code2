@@ -45,7 +45,7 @@
 
 ## Freelancing 
 
-###Building A Business
+### Building A Business
 1. [SkillCrush Freelance Business Building Blueprint] (https://skillcrush.com/freelance-business-blueprint)
 
 ## Contents
