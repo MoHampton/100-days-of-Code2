@@ -172,6 +172,17 @@
 
 ---
 
+
+### Day 16: December 3, 2017
+
+**Today's Progress**: Another SharePoint Framework tutorial
+
+**Thoughts** ...
+
+**Work:** [SharePoint Framework Youtube Video](https://www.youtube.com/watch?v=YqMh78I_NiA)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
