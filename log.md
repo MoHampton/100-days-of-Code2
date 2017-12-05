@@ -183,6 +183,16 @@
 
 ---
 
+### Day 17: December 4, 2017
+
+**Today's Progress**: Another SharePoint Framework tutorial
+
+**Thoughts** Completed Module 2 Sections 1 & 2 
+
+**Work:** [SharePoint Framework Youtube Video](https://www.youtube.com/watch?v=YqMh78I_NiA)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
