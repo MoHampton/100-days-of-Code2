@@ -193,6 +193,15 @@
 
 ---
 
+
+### Day 18: December 5, 2017
+
+**Today's Progress**: Took time out today to review javascript code to dynamically print a contact list from a SharePoint portal site.  
+
+**Thoughts** I'm excited to get my hands dirty...finally!
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
