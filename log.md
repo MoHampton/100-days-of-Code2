@@ -193,12 +193,19 @@
 
 ---
 
-
 ### Day 18: December 5, 2017
 
 **Today's Progress**: Took time out today to review javascript code to dynamically print a contact list from a SharePoint portal site.  
 
 **Thoughts** I'm excited to get my hands dirty...finally!
+
+---
+
+### Day 19: December 6, 2017
+
+**Today's Progress**: SharePoint Designer Training 
+
+**Thoughts** Had fun learing how to build apps with SharePoint Desinger.  This should minimize making unneccessary code when Microsoft has many out of the box options.  I learned how to make contacts, custom lists and calendars.  I have two more days of class to attend.  I truly cannot wait for tomorrow!
 
 ---
 
