@@ -3,7 +3,7 @@ This is a guide to my journey to becoming a professional developer. Need directi
 <a href="https://twitter.com/moxiehampton?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @moxiehampton</a>
 <br>
 
-This repo was built to track my daily learning and as an accountability tool for the [#100DaysofCode](https://twitter.com/hashtag/100DaysOfCode?src=hash) Twitter challenge. 
+This repo was built to track my daily learning and acts as an accountability tool for the [#100DaysofCode](https://twitter.com/hashtag/100DaysOfCode?src=hash) Twitter challenge. 
 
 [Mo's Portfolio Website](https://mohampton.github.io)
 
