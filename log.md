@@ -209,6 +209,14 @@
 
 ---
 
+### Day 20: December 7, 2017
+
+**Today's Progress**: SharePoint Designer Training Day 2
+
+**Thoughts** Today we focused on document librarys with custom views and spent half of the day reviewing permissions.  I found a few pockets where I could embed HTML code in advance modification areas. I will also research an infopath form that links to several different calendars, lists and document libraries.  Tomorrow will be the last day of class. :(
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
