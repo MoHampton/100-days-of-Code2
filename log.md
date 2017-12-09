@@ -217,6 +217,14 @@
 
 ---
 
+### Day 21: December 8, 2017
+
+**Today's Progress**: SharePoint Designer Training Day 3
+
+**Thoughts** Had a crack at designing a portal page.  It was hard to wrapped my mind around the company template and not to be able to write simple HTML and CSS code to change the layout.  However, I understand how this could be useful for employees.  It eleminates code and provides drop and drag options similar to a Content Management System (CMS) similar to Wordpress and Drupal. 
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
