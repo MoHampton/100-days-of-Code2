@@ -225,6 +225,17 @@
 
 ---
 
+
+### Day 22: December 10, 2017
+
+**Today's Progress**: Flexbox Zombiies
+
+**Thoughts** I had a pretty busy weekend due to holiday functions but I'm back today.  I'm running on very little sleep, so a fun game seemed more pleasing than reading documentation or breaking something.  Today I start to learn flexbox!
+
+**Work:** [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
