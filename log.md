@@ -243,6 +243,17 @@
 
 ---
 
+
+### Day 24: December 12, 2017
+
+**Today's Progress**: React JS SharePoint Web Part
+
+**Thoughts** Still chugging at finding a print solution at work. Tonight I messed around a bit more on the React "hello world" web part and caputured video to show my work pals.  I'm hoping to get access the SPfx soon. 
+
+**Work:** [Watch Me Learn](https://www.youtube.com/watch?v=pkxMIz2_pxg)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
