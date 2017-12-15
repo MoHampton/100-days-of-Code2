@@ -254,6 +254,22 @@
 
 ---
 
+### Day 25: December 13, 2017
+
+**Today's Progress**: JS Print Code in SharePoint Web Part
+
+**Thoughts** I was able to make a button in the content editor web part (CEWP) to easily print a custom list.  Still working on making a modal that will provide the user instructions. 
+
+---
+
+### Day 26: December 14, 2017
+
+**Today's Progress**: JS Link to Modify a Custom List' s CSS
+
+**Thoughts** Messing around with highlighting certain rows within a custom list.  I feel at a dissadvantage because I do not have the proper developer enviornment yet. 
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
