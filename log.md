@@ -270,6 +270,24 @@
 
 ---
 
+### Day 27: December 15, 2017
+
+**Today's Progress**: First SharePoint Development Win!
+
+**Thoughts** I experienced my first win today with SharePoint!  I was able to finally produce a button to open a modal that would give the user a choice of which columns to include in the print of the phone roster contact list.  Now if I can get the JSLink for formatting the CSS attributes...I will be one happy camper
+
+---
+
+### Day 28: December 17, 2017
+
+**Today's Progress**: Learn Enough Text Editor
+
+**Thoughts** I really like the format of the Learn Enough Text Editor tutorial.  I might start again at the beginning with the command line tut.  It doesn't hurt to have a refresher.  I miss yesterday due to a holiday party but plan on coding a bit later tonight on FCC algorithms.
+
+**Training:** [LE Text Editor](https://www.learnenough.com/text-editor-tutorial)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
