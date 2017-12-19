@@ -287,6 +287,15 @@
 **Training:** [LE Text Editor](https://www.learnenough.com/text-editor-tutorial)
 
 ---
+### Day 29: December 18, 2017
+
+**Today's Progress**: Security+ Training
+
+**Thoughts** This week I will take a pause from coding to focus on obtaining a Security+ Certification, a requirement for my current position.  Today we focused on Domain 1 & 2.
+
+**Training:** [Security+ Certification Objectives](https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf)
+
+---
 
 ## Contents
 * [My Daily Log](log.md)
