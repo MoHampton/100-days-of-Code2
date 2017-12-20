@@ -297,6 +297,16 @@
 
 ---
 
+### Day 30: December 19, 2017
+
+**Today's Progress**: Security+ Training
+
+**Thoughts** Completed Domain 2 and learned about subnetting.
+
+**Training:** [Security+ Certification Objectives](https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
