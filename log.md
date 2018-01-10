@@ -307,6 +307,18 @@
 
 ---
 
+---
+
+### Day 31: January 9, 2018
+
+**Today's Progress**: Happy New Year!
+
+**Thoughts** Wow! My holiday break was much needed by I took a little too much time away from my daily logging.  I've been quite busy with my new developer position and I LOVE every moment of it.  During the time away, I made a work code repository and starting building a demo library for SharePoint administrators.  I'm stregthening my JavaScript skills almost every day, however, I need to return to JS tutorials.  This weekend my focus will be on prepaaring for my Security+ certification.  Fingers crossed on passing the exam next week.
+
+**Training:** [Security+ Certification Objectives](https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
