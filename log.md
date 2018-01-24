@@ -319,13 +319,27 @@
 
 ### Day 35: January 22, 2018
 
-**Today's Progress**: Let's just say it's 35 and move forward, okay? Focusing on JS conditionals today.
+**Today's Progress**: Let's just say it's Day 35 and move forward, okay? Focusing on JS conditionals today.
 
 **Thoughts** Seriously, I've been in over my head in code, in a good way.  Recently I received a Challenge Scholarship from Google and I could not be more grateful! I'm about 45% done with the course and it's only been about 10 days.  I will slow down on the JS portion and actually focus on the fundamentals again.  Oh, and did I mention that I'm also participating in the CodeNewbie Challenge.  Of course I chose to participate in the "Code More" track.  This week I will lay out my goals for the upcoming week, and possibly year.  
 
 **Training:** 
+[CodeNewbie 2018 Challenge #CNC2018](http://2018.codenewbie.org/?utm_source=treehouse&utm_medium=any&utm_campaign=cnc2018&utm_term=partner&utm_content=all)
+[Grow With Google Scholarship #GWG](https://www.udacity.com/grow-with-google)
+
+---
+
+### Day 36: January 23, 2018
+
+**Today's Progress**: #GWG JavaScript Conditionals & #CNC2018 Goals.
+
+**Thoughts** I was able to complete the conditionals tutorial and now I'm moving on to one of my favorites...LOOPS!  It is so refreshing to go back to the basics and discover information you brushed past the first time.  I also made some time to review the #CNC2018 challenge goals.  
+
+**Training:** 
 [CodeNewbie 2018 Challenge](http://2018.codenewbie.org/?utm_source=treehouse&utm_medium=any&utm_campaign=cnc2018&utm_term=partner&utm_content=all)
 [Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
+
+---
 
 ## Contents
 * [My Daily Log](log.md)
