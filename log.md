@@ -110,7 +110,7 @@
 
 **Today's Progress**: FreeCodeCamp basic algorithm scripting and more Watch and Code.
 
-**Thoughts** My attempt at the "Check for Palindromes" on FCC is pretty lack luster. I'm currently reviewing documention on String.prototype.replace() and String.prototype.toLowerCase()
+**Thoughts** My attempt at the "Check for Palindromes" on FCC is pretty lack luster. I'm currently reviewing documentation on String.prototype.replace() and String.prototype.toLowerCase()
 
 **Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
@@ -122,7 +122,7 @@
 
 **Today's Progress**: FreeCodeCamp basic algorithm scripting and more Watch and Code.
 
-**Thoughts** And BOOM! I figured out about 90% of soluation prior to checking Stack Overflow.  I got tricked up a bit on how to remove the characters. And...only one video on WatchAndCode.  I spent majority of my time reviewing the Skillcrush website and ultimately purchased the freelance blueprint.  I've been approached recently to build and website and a Learning Management System (LMS).  I'm hoping to build a decent LMS on Wordpress to allow the customer to make future minor changes to the website without a developer.  I'm excited to see how this may unfold. 
+**Thoughts** And BOOM! I figured out about 90% of solution prior to checking Stack Overflow.  I got tricked up a bit on how to remove the characters. And...only one video on WatchAndCode.  I spent majority of my time reviewing the Skillcrush website and ultimately purchased the freelance blueprint.  I've been approached recently to build and website and a Learning Management System (LMS).  I'm hoping to build a decent LMS on Wordpress to allow the customer to make future minor changes to the website without a developer.  I'm excited to see how this may unfold. 
 
 **Work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
@@ -156,7 +156,7 @@
 
 **Today's Progress**: SharePoint Framework Intro Module 1 Section 4
 
-**Thoughts** Short day on coding today.  Attempted to set up the SPFX environment on a new computer to code a new web part but had to settle on completing a module due to time contraints. 
+**Thoughts** Short day on coding today.  Attempted to set up the SPFX environment on a new computer to code a new web part but had to settle on completing a module due to time constraints. 
 
 **Work:** [SharePoint Framework Youtube Video](https://www.youtube.com/watch?v=YqMh78I_NiA)
 
@@ -205,7 +205,7 @@
 
 **Today's Progress**: SharePoint Designer Training 
 
-**Thoughts** Had fun learing how to build apps with SharePoint Desinger.  This should minimize making unneccessary code when Microsoft has many out of the box options.  I learned how to make contacts, custom lists and calendars.  I have two more days of class to attend.  I truly cannot wait for tomorrow!
+**Thoughts** Had fun learning how to build apps with SharePoint Designer.  This should minimize making unnecessary code when Microsoft has many out of the box options.  I learned how to make contacts, custom lists and calendars.  I have two more days of class to attend.  I truly cannot wait for tomorrow!
 
 ---
 
@@ -213,7 +213,7 @@
 
 **Today's Progress**: SharePoint Designer Training Day 2
 
-**Thoughts** Today we focused on document librarys with custom views and spent half of the day reviewing permissions.  I found a few pockets where I could embed HTML code in advance modification areas. I will also research an infopath form that links to several different calendars, lists and document libraries.  Tomorrow will be the last day of class. :(
+**Thoughts** Today we focused on document libraries with custom views and spent half of the day reviewing permissions.  I found a few pockets where I could embed HTML code in advance modification areas. I will also research an infopath form that links to several different calendars, lists and document libraries.  Tomorrow will be the last day of class. :(
 
 ---
 
@@ -221,13 +221,13 @@
 
 **Today's Progress**: SharePoint Designer Training Day 3
 
-**Thoughts** Had a crack at designing a portal page.  It was hard to wrapped my mind around the company template and not to be able to write simple HTML and CSS code to change the layout.  However, I understand how this could be useful for employees.  It eleminates code and provides drop and drag options similar to a Content Management System (CMS) similar to Wordpress and Drupal. 
+**Thoughts** Had a crack at designing a portal page.  It was hard to wrapped my mind around the company template and not to be able to write simple HTML and CSS code to change the layout.  However, I understand how this could be useful for employees.  It eliminates code and provides drop and drag options similar to a Content Management System (CMS) similar to Wordpress and Drupal. 
 
 ---
 
 ### Day 22: December 10, 2017
 
-**Today's Progress**: Flexbox Zombiies
+**Today's Progress**: Flexbox Zombies
 
 **Thoughts** I had a pretty busy weekend due to holiday functions but I'm back today.  I'm running on very little sleep, so a fun game seemed more pleasing than reading documentation or breaking something.  Today I start to learn flexbox!
 
@@ -248,7 +248,7 @@
 
 **Today's Progress**: React JS SharePoint Web Part
 
-**Thoughts** Still chugging at finding a print solution at work. Tonight I messed around a bit more on the React "hello world" web part and caputured video to show my work pals.  I'm hoping to get access the SPfx soon. 
+**Thoughts** Still chugging at finding a print solution at work. Tonight I messed around a bit more on the React "hello world" web part and captured video to show my work pals.  I'm hoping to get access the SPfx soon. 
 
 **Work:** [Watch Me Learn](https://www.youtube.com/watch?v=pkxMIz2_pxg)
 
@@ -266,7 +266,7 @@
 
 **Today's Progress**: JS Link to Modify a Custom List' s CSS
 
-**Thoughts** Messing around with highlighting certain rows within a custom list.  I feel at a dissadvantage because I do not have the proper developer enviornment yet. 
+**Thoughts** Messing around with highlighting certain rows within a custom list.  I feel disadvantaged because I do not have the proper developer environment yet. 
 
 ---
 
@@ -311,7 +311,7 @@
 
 **Today's Progress**: Happy New Year!
 
-**Thoughts** Wow! My holiday break was much needed by I took a little too much time away from my daily logging.  I've been quite busy with my new developer position and I LOVE every moment of it.  During the time away, I made a work code repository and starting building a demo library for SharePoint administrators.  I'm stregthening my JavaScript skills almost every day, however, I need to return to JS tutorials.  This weekend my focus will be on prepaaring for my Security+ certification.  Fingers crossed on passing the exam next week.
+**Thoughts** Wow! My holiday break was much needed by I took a little too much time away from my daily logging.  I've been quite busy with my new developer position and I LOVE every moment of it.  During the time away, I made a work code repository and starting building a demo library for SharePoint administrators.  I'm strengthening my JavaScript skills almost every day, however, I need to return to JS tutorials.  This weekend my focus will be on preparing for my Security+ certification.  Fingers crossed on passing the exam next week.
 
 **Training:** [Security+ Certification Objectives](https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf)
 
@@ -337,6 +337,29 @@
 
 **Training:** 
 [CodeNewbie 2018 Challenge](http://2018.codenewbie.org/?utm_source=treehouse&utm_medium=any&utm_campaign=cnc2018&utm_term=partner&utm_content=all)
+[Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
+
+---
+
+### Day 37: January 24, 2018
+
+**Today's Progress**: Bootstrap Scrollspy
+
+**Thoughts** I developed a decent navigation menu on SharePoint to guide the user through different sections of a SharePoint page.  This took more time than I estimated by the finished product was worth it.
+
+**Work:** 
+[Bootstrap Scrollspy Documentation](https://getbootstrap.com/docs/4.0/components/scrollspy/)
+
+---
+
+### Day 38: January 25, 2018
+
+**Today's Progress**: Contact's Page Framework
+
+**Thoughts** Built a dashboard comprised of profile image tiles that provides contact details on a modal after clicking the picture. I found a good template, listed below.  
+
+**Work:** 
+[Bootstrap Dashboard Template](https://startbootstrap.com/template-overviews/sb-admin/)
 [Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
 
 ---
