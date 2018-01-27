@@ -360,7 +360,6 @@
 
 **Work:** 
 [Bootstrap Dashboard Template](https://startbootstrap.com/template-overviews/sb-admin/)
-[Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
 
 ---
 
@@ -372,7 +371,6 @@
 
 **Work:** 
 [Bootstrap Dashboard Template](https://startbootstrap.com/template-overviews/sb-admin/)
-[Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
 
 ---
 
