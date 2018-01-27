@@ -354,9 +354,21 @@
 
 ### Day 38: January 25, 2018
 
-**Today's Progress**: Contact's Page Framework
+**Today's Progress**: Contact Page Framework
 
 **Thoughts** Built a dashboard comprised of profile image tiles that provides contact details on a modal after clicking the picture. I found a good template, listed below.  
+
+**Work:** 
+[Bootstrap Dashboard Template](https://startbootstrap.com/template-overviews/sb-admin/)
+[Grow With Google Scholarship](https://www.udacity.com/grow-with-google)
+
+---
+
+### Day 39: January 26, 2018
+
+**Today's Progress**: SPServices
+
+**Thoughts** Today was the first time I was able to use SPServices to make API calls from a SharePoint list into the Bootstrap framework.  There were a few glitches but I was finally able to retrieve the data.  The last step is to run a for loop through each list item and place images on a grid.  Whew!  Hopefully I will be able to complete this task on Monday. 
 
 **Work:** 
 [Bootstrap Dashboard Template](https://startbootstrap.com/template-overviews/sb-admin/)
