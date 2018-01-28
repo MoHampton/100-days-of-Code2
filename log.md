@@ -374,6 +374,30 @@
 
 ---
 
+### Day 40: January 27, 2018
+
+**Today's Progress**: JSON APIs
+
+**Thoughts** Finally, a BREAKTHROUGH! I tested the API call on Bootstrap cards and was able to dynamically make each card that would trigger a modal with the corresponding information.  I used bootstrap grid and [open API](https://docs.openaq.org/) for air quality.
+
+**Work:** 
+[Codepen API Testing](https://codepen.io/MoHampton/pen/YYmMNM?editors=1010)
+[Bootstrap Gridlock](https://github.com/JohnnyTheTank/bootstrap-block-grid)
+
+---
+
+### Day 41: January 28, 2018
+
+**Today's Progress**: More API practice and Grow With Google 
+
+**Thoughts** Added a github tab to the API practice and a refresher on JS loops through Udacity.
+
+**Work:** 
+[Codepen API Testing](https://codepen.io/MoHampton/pen/YYmMNM?editors=1010)
+[Bootstrap Gridlock](https://github.com/JohnnyTheTank/bootstrap-block-grid)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
