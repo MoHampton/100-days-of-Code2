@@ -398,6 +398,16 @@
 
 ---
 
+### Day 42: January 29, 2018
+
+**Today's Progress**: Grow With Google: JS Loops & Project Complete! 
+
+**Thoughts** Today was exciting!  I was anxious to start working in the office on my contacts list project.  With the help of a SharePoint Developer Vet, I was able to make an image card for each contact that corresponded with a modal containing contact information.  You could even click the hyperlink and email them directly!  Yes!  Tomorrow, I will work on the CSS to make it more presentable...and I might even add flip-card animation. :)  Tonight, I will knock out another lesson on Udacity for my Grow w/Google scholarship.  Full speed adhead! 
+
+**Work:** 
+[Codepen API Testing](https://codepen.io/MoHampton/pen/YYmMNM?editors=1010)
+[Bootstrap Gridlock](https://github.com/JohnnyTheTank/bootstrap-block-grid)
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
