@@ -438,6 +438,42 @@
 
 ---
 
+### Day 45: February 1, 2018
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+**Work:** 
+
+
+---
+
+### Day 46: February 2, 2018
+
+**Today's Progress**: Bootstrap V3 Button Group Navigation
+
+**Thoughts** More work on the Yearbook collab with discussion and a touch of style 
+
+**Work:** 
+[Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
+
+[My Yearbook Cards Demo](https://giphy.com/gifs/xUNd9RdcrvuZEG7SDe/html5)
+
+[Card Inspiration](https://www.creative-tim.com/product/rotating-css-card)
+
+---
+
+### Day 47: February 5, 2018
+
+**Today's Progress**: SharePoint Workflows and Bootstrap V3 Button Group Navigation
+
+**Thoughts** 
+
+**Work:** 
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
