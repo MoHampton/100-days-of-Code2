@@ -408,6 +408,21 @@
 [Codepen API Testing](https://codepen.io/MoHampton/pen/YYmMNM?editors=1010)
 [Bootstrap Gridlock](https://github.com/JohnnyTheTank/bootstrap-block-grid)
 
+---
+
+### Day 43: January 30, 2018
+
+**Today's Progress**: Grow With Google: JS Functions & Yearbook Group Collaboration 
+
+**Thoughts** Still riding on a coding high... I completed the JS loops and moved forward to the functions lesson. And here is where the fun begins...a group of students were interested in building a Grow With Google 2018 Front End Web Developers Yearbook.  I got my hands dirty and built a few animated cards leveraging the lessons learned from my work project. I hate to say it, but the cards look so much better outside of SharePoint.  
+
+**Work:** 
+[Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
+[My Yearbook Cards Demo](upload://i3umjcqj0dDqKD6nkhneWh7Cld6.gif)
+[Card Inspriation](https://www.creative-tim.com/product/rotating-css-card)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
