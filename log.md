@@ -419,7 +419,7 @@
 **Work:** 
 [Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
 [My Yearbook Cards Demo](upload://i3umjcqj0dDqKD6nkhneWh7Cld6.gif)
-[Card Inspriation](https://www.creative-tim.com/product/rotating-css-card)
+[Card Inspiration](https://www.creative-tim.com/product/rotating-css-card)
 
 ---
 
