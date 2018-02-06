@@ -418,7 +418,22 @@
 
 **Work:** 
 [Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
-[My Yearbook Cards Demo](upload://i3umjcqj0dDqKD6nkhneWh7Cld6.gif)
+[My Yearbook Cards Demo](https://giphy.com/gifs/xUNd9RdcrvuZEG7SDe/html5)
+[Card Inspiration](https://www.creative-tim.com/product/rotating-css-card)
+
+---
+
+### Day 44: January 31, 2018
+
+**Today's Progress**: Yearbook Group Collaboration 
+
+**Thoughts** More work on the Yearbook collab with discussion and a touch of style 
+
+**Work:** 
+[Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
+
+[My Yearbook Cards Demo](https://giphy.com/gifs/xUNd9RdcrvuZEG7SDe/html5)
+
 [Card Inspiration](https://www.creative-tim.com/product/rotating-css-card)
 
 ---
