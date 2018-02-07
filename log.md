@@ -474,6 +474,17 @@
 
 ---
 
+### Day 50: February 5, 2018
+
+**Today's Progress**: SharePoint Lists Progress Bar and Status Tracker, Grow with Google JavaScript Functions
+
+**Thoughts** It feels like everyone is calling in sick lately at work due to the flu.  I'm hoping it doesn't hit me anytime soon. :( I took some time to update a contact list and add a few requests from the customer.  Additionally, I used JS to make a progress bar for a project tracker in SP.  It's the small things. 
+
+**Work:** 
+[SP Progress Bar](https://www.eliostruyf.com/create-a-task-progress-bar-with-js-link-in-sharepoint-2013/)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
