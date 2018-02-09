@@ -507,6 +507,17 @@
 
 ---
 
+### Day 53: February 8, 2018
+
+**Today's Progress**: SharePoint new item form in a modal the contacts UI.  
+
+**Thoughts**: Ran into another snag today trying to fix a bootstrap vertical navigation bar.  The navigation is fixed, which is great for vertical scrolling, however, when the user scrolls right, the navigation blocks the content.  At first glance, I assume the body should be fixed to not allow scrolling horizontal scrolling.  More to follow tomorrow.  
+
+**Work:** 
+
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
