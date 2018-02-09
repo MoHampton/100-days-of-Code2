@@ -513,7 +513,12 @@
 
 **Thoughts**: Ran into another snag today trying to fix a bootstrap vertical navigation bar.  The navigation is fixed, which is great for vertical scrolling, however, when the user scrolls right, the navigation blocks the content.  At first glance, I assume the body should be fixed to not allow scrolling horizontal scrolling.  More to follow tomorrow.  
 
-**Work:** 
+**Study:** 
+[SP Progress Bar](http://michaelsoriano.com/build-a-simple-responsive-navigation-menu-from-scratch/)
+
+[W3 Schools Side Nav](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_push)
+
+[Fixed SharePoint Page Width](https://n8d.at/blog/fixed-width-design-in-sharepoint-2013-the-fast-way/)
 
 
 ---
