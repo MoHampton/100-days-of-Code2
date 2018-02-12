@@ -523,6 +523,17 @@
 
 ---
 
+### Day 54: February 12, 2018
+
+**Today's Progress**: Grow with Google 2018 Yearbook 
+
+**Thoughts**: 
+
+**Work:** 
+[Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
+
+---
+
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
