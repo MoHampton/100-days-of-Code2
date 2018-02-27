@@ -533,6 +533,25 @@
 [Github Udacity Yearbook Project](https://github.com/sgs006/Udacity-Yearbook-Project)
 
 ---
+### Day 55: February 17, 2018
+
+**Today's Progress**: All Things Open Conference 
+
+---
+### Day 55 - 65: February 18 - 27, 2018
+
+**Today's Progress**: Grow with Google (Udacity), Telebook (Business Contact Address Book) Application, SP Calendar & custom list conversion.
+
+**Thoughts**: Once again, I've been up to my eyeballs in code...AND I LOVE IT! I moved out of the javascript module in my Udacity course and started with the DOM section.  I've also worked with a few class members on getting the Google Udacity Yearbook application off the ground and organized.  It's a thrilling feeling to start something new.  At work, I finally completed the Telebook App and added a contact search feature and add/edit contact buttons for functionality.  The customer is happy with the final product.  On the the next work project...an enterprise calendar and functionality to convert custom lists to Word, PDF and Excel by clicking a button.  Whew!
+
+**Research:** 
+[Joel Dsouza SP List Blog Tips](https://www.dsouzajoel.com/2015/12/17/convert-sharepoint-list-to-pdfcsvexcel-using-javascript/)
+[DataTables.Net](https://datatables.net/extensions/buttons/examples/html5/pdfOpen.html)
+[Convert PDF Workflow](https://www.youtube.com/watch?v=Ousmd4LjZaU)
+[SharePoint 2013 Rest API Calls](https://www.youtube.com/watch?v=0IabpcX3xgY&t=216s)
+[Moving from SP Services to REST API](http://sympmarc.com/series/moving-from-spservices-to-rest/)
+---
+
 
 ## Contents
 * [My Daily Log](log.md)
