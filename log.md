@@ -545,13 +545,28 @@
 **Thoughts**: Once again, I've been up to my eyeballs in code...AND I LOVE IT! I moved out of the javascript module in my Udacity course and started with the DOM section.  I've also worked with a few class members on getting the Google Udacity Yearbook application off the ground and organized.  It's a thrilling feeling to start something new.  At work, I finally completed the Telebook App and added a contact search feature and add/edit contact buttons for functionality.  The customer is happy with the final product.  On the the next work project...an enterprise calendar and functionality to convert custom lists to Word, PDF and Excel by clicking a button.  Whew!
 
 **Research:** 
+
 [Joel Dsouza SP List Blog Tips](https://www.dsouzajoel.com/2015/12/17/convert-sharepoint-list-to-pdfcsvexcel-using-javascript/)
+
 [DataTables.Net](https://datatables.net/extensions/buttons/examples/html5/pdfOpen.html)
+
 [Convert PDF Workflow](https://www.youtube.com/watch?v=Ousmd4LjZaU)
+
 [SharePoint 2013 Rest API Calls](https://www.youtube.com/watch?v=0IabpcX3xgY&t=216s)
+
 [Moving from SP Services to REST API](http://sympmarc.com/series/moving-from-spservices-to-rest/)
+
 ---
 
+### Day 66: February 28, 2018
+
+**Today's Progress**: SharePoint 2013 REST APIs
+
+**Thoughts**: Another small victory today. When I first made the telebook app, I used SPServices with the help of a coworker.  She is has been great teaching me some of the historical ways to develop on the SharePoint platform.  Today I recreated the telebook app and used JavaScript REST APIs to retrieve the data.  **Happy Dance** Only thing left is to figure out how to retrieve URL from the picture object, which is a special column on a custom SharePoint list.  
+
+**Link to training:** 
+
+---
 
 ## Contents
 * [My Daily Log](log.md)
