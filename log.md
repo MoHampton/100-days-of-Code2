@@ -564,7 +564,13 @@
 
 **Thoughts**: Another small victory today. When I first made the telebook app, I used SPServices with the help of a coworker.  She is has been great teaching me some of the historical ways to develop on the SharePoint platform.  Today I recreated the telebook app and used JavaScript REST APIs to retrieve the data.  **Happy Dance** Only thing left is to figure out how to retrieve URL from the picture object, which is a special column on a custom SharePoint list.  
 
-**Link to training:** 
+**Research:** 
+
+[Rest API Reference](https://msdn.microsoft.com/en-us/library/office/jj860569.aspx)
+
+[Blog on REST API picture URL retrieval](https://social.msdn.microsoft.com/Forums/vstudio/en-US/73755f3f-d6aa-4e77-b42e-863ddcf6cd4e/how-to-get-value-of-hyperlink-or-picture-field-column-using-rest-api?forum=appsforsharepoint)
+
+[SP REST API CRUD Blog](https://www.codeproject.com/Articles/990131/CRUD-Operation-to-List-Using-SharePoint-Rest-API)
 
 ---
 
