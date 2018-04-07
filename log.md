@@ -572,6 +572,39 @@
 
 [SP REST API CRUD Blog](https://www.codeproject.com/Articles/990131/CRUD-Operation-to-List-Using-SharePoint-Rest-API)
 
+https://sharepoint.stackexchange.com/questions/159793/how-to-retrieve-image-column-from-sharepoint-list-using-rest-api
+
+---
+
+### Day 67 - 87: March 24, 2018
+
+**What Happened to the Daily Logs**:  I've done a horrible job at logging my daily coding, but please believe, I've been coding EVERY DAY (happily).  I've learned a tremendous amount of jQuery and API's.  My Grow with Google Scholarship has truly been God sent and helped me to better understand JavaScript. 
+
+**Today's Progress**: SharePoint Saturday Virginia Beach and many days of SharePoint Development
+ 
+**Microsoft Azure Functions**: (Fabian Williams) Removes the need for a IDE such as VS Studio.  It's an event listening product that can be written in any language: i.e. C# or JavaScript.  Creates a "serverless" event-driven experience by building "nanoservices".  Azure functions are broken into three sets: Run, Function and Project.  Run_ writes the method.  Function- contains all service and triggers binding parameters. Project- contains project assembly and NuGet package references.  App Service settings, such as connection strings and API keys. 
+
+**Custom Client SP Web APIs**: (Daniel Walker) [Walker Gizmos Github](https://github.com/spevilgenius/SPGizmos) The only presentation in SharePoint 2013! Yay! Research:Term stores- term groups & sets. 
+
+**Framework Components**: (John Ramminger email:johnramminger@rammware.net) Developing reusable js & jQuery components that could be deployed throughout the enterprise. *hint: avoid cut and past coding issues* 
+- Think Generic: Do not use fully referenced URLs in your code.
+- SP Framework; focus on the different imported enviornments under the webpart.ts 
+
+**Research**: 
+- Twillio services for Azure functions. Azure Stack: Microsoft & vendors to give you access on premises.   
+- CodeRush ReSharper: tolls to make coding easier.  (other tools: DevExpress, Telerik{Kendo:grid component maker}, Component One etc.)
+[Kendo UI](https://www.telerik.com/kendo-ui) {Charts, Panel Display, timeline/calendar}
+- Content Web Tab Editor-- will only load the tab content on the tab .onclick
+- Timeline App Vis.js: follow-up questions
+- SharePoint Online Context...
+- Question: Can Web parts that has been built in the SPFX be pushed back to SP2013 for use?
+
+-Dev Intersection
+- Andrew Connell's Voitanos.io (April Course)
+- Pluralsight
+- Skill Share
+- Lynda
+
 ---
 
 ## Contents
