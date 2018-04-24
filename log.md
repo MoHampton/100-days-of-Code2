@@ -606,7 +606,10 @@ https://sharepoint.stackexchange.com/questions/159793/how-to-retrieve-image-colu
 - Lynda
 
 ---
+### Day 88: April 23, 2018
 
+**What Happened to the Daily Logs**:  So...here we are.  Bad News: I'm starting round 3 of 100 Days of Code, as I failed miserably at completing daily logs lately.  Good News: I earned the second phase of the Grow with Google Scholarship for the Front End Nanodegree with Udacity!!!  Onward and upward!  Tomorrow marks Round 3 Day 1! Let's Go!! 
+---
 ## Contents
 * [My Daily Log](log.md)
 * [Rules](rules.md)
